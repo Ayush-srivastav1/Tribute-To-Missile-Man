@@ -1,0 +1,34 @@
+.ak{
+    width: 300px;
+    border-radius: 140px;
+}
+body{
+    background-color: black;
+    color: white;
+    border: 4px;
+    border: 9px;
+}
+legend{
+    text-align: center;
+    font-size: 40px;
+}
+.kl{
+   text-align: center;
+   font-size: 40px;
+   font-style: italic;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.mm h1{
+font-size: 50px;
+}
+.mm{
+    font-size: 27px;
+}
+.bi{
+    font-size: 27px;
+    color: blue;
+
+}
+.bi h2{
+    font-size: 50px;
+}
